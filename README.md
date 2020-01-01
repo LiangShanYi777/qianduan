@@ -19,7 +19,7 @@
 #### 第三小题
 - 用Element-ui框架设计基于PC端的网站设计
 
-![3](../qianduan/img/3.jpg)
+![3](https://github.com/LiangShanYi777/qianduan/blob/master/img/3.jpg)
 
 #### 第四小题
 - 用基于VUE3搭建（Cube-ui）框架，设调试仿京东App。
