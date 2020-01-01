@@ -12,6 +12,8 @@
 
 ![2](https://github.com/LiangShanYi777/qianduan/blob/master/img/9.png)
 
+![2](https://github.com/LiangShanYi777/qianduan/blob/master/img/10.jpg)
+
 #### 第三小题
 - 用Element-ui框架设计基于PC端的网站设计
 
